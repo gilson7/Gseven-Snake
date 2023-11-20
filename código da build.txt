@@ -1,2 +1,0 @@
-pyinstaller --onefile --windowed "GSEVEN SNAKE.py" --icon=icon.ico 
-obs: executar no terminal no local rais pelo vscode ou navegue usando o cmd
